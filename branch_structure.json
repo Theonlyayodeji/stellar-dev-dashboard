@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "feat/ai-dashboard-personalization",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "feat/ai-dashboard-personalization": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "feat/ai-dashboard-personalization",
+    "origin"
+  ]
+}
